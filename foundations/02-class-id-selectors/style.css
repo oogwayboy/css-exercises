@@ -1,0 +1,20 @@
+.firstclass{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans,  sans-serif;
+}
+
+.biggerp{
+    font-size: 24px
+}
+
+#firstid{
+    color: blue;
+    font-size: 36px;
+}
+
+#secondid{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
